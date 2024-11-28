@@ -1,0 +1,92 @@
+body {
+	background: yellow;
+	text-align: center;
+	font-size: 50px;
+}
+
+
+.ping {
+	margin-top: 900px;
+	color: red;
+	background-color: pink;
+	padding-top: 30px;
+	margin-right: 100px;
+	display: flex;
+}
+
+
+.janela {
+	background-color: pink;
+	height: 340px;
+	width: 900px;
+	padding-left: 100px;
+	margin-left: 220px;
+	padding-bottom: 40PX;
+}
+
+#nos {
+	background-color: pink;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.eu1 { 
+	width: 400px;
+	height: 500px;
+}
+
+.Ela1 { 
+	width: 500px;
+	height: 500px;
+}
+
+.nos2 { 
+	width: 500px;
+	height: 300px;
+	padding: 10px 10px 10px 10px;
+}
+
+h1 {
+	color: blueviolet;
+}
+
+h2 {
+	color: blueviolet;
+}
+
+.rodar {
+width: 300px;
+rotate: -90deg;
+margin-left: 50px;
+}
+
+.MC1 {
+width: 500px;
+height: 300px;
+padding: 10px 10px;	
+}
+
+.MC2 {
+	width: 500px;
+	height: 300px;
+	padding: 10px 10px;	
+}
+
+.eueela1 { 
+	width: 500px;
+	height: 300px;
+}
+
+.R1 { 
+	width: 500px;
+	height: 300px;
+}
+
+#Minecraft {
+	padding: 10px 10px 10px 10px;
+	margin: 10px 10px;
+}
+
+h3 {
+	color: aquamarine;
+}

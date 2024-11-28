@@ -1,0 +1,60 @@
+body {
+	font-size:1em ;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	background: pink;
+}
+
+.cinza{
+	display: inline;
+	color: grey;
+}
+
+.branco {
+	display: inline;
+	color: white;
+}
+
+#cabecalho{
+	border: 1px solid red;
+	background: orange;
+	text-align: center;
+    padding-top: 30px;
+    padding-bottom: 25px;
+    width: 100%;
+
+}
+
+#conteudo1 {
+	background: white;
+	width: 700px;
+    height: 600px;
+    margin-left: 200px;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+
+
+#links {
+	padding-top: 20px;
+}
+
+
+a {
+	color: white;
+	text-decoration: none;
+	margin-right: 30px;
+	width: 10px;
+}
+a:link {
+	color: black;
+}
+
+a:visited {
+	color: blue;
+}
+
+a:hover {
+	color: orange;
+	background: white;
+}
